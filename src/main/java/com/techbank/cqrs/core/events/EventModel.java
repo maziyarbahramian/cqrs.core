@@ -19,5 +19,5 @@ public class EventModel {
     private String aggregateType;
     private int version;
     private String eventType;
-    private BaseEvent baseEvent;
+    private BaseEvent eventData;
 }
